@@ -1,3 +1,6 @@
+/* TicTacToe game
+Author: Talent Yolanda Ndlovu
+Date: 13 Aug 2024*/
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
